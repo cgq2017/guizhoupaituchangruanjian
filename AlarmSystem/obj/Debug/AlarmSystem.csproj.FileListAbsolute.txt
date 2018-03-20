@@ -1,0 +1,184 @@
+D:\贵州劳科院项目\预警模块设计\AlarmSystem\AlarmSystem\bin\Debug\AlarmSystem.exe.config
+D:\贵州劳科院项目\预警模块设计\AlarmSystem\AlarmSystem\obj\Debug\AlarmSystem.csprojResolveAssemblyReference.cache
+D:\贵州劳科院项目\预警模块设计\AlarmSystem\AlarmSystem\obj\Debug\AlarmSystem.Form1.resources
+D:\贵州劳科院项目\预警模块设计\AlarmSystem\AlarmSystem\obj\Debug\AlarmSystem.Properties.Resources.resources
+D:\贵州劳科院项目\预警模块设计\AlarmSystem\AlarmSystem\obj\Debug\AlarmSystem.csproj.GenerateResource.Cache
+D:\贵州劳科院项目\预警模块设计\AlarmSystem\AlarmSystem\bin\Debug\AlarmSystem.exe
+D:\贵州劳科院项目\预警模块设计\AlarmSystem\AlarmSystem\bin\Debug\AlarmSystem.pdb
+D:\贵州劳科院项目\预警模块设计\AlarmSystem\AlarmSystem\obj\Debug\AlarmSystem.exe
+D:\贵州劳科院项目\预警模块设计\AlarmSystem\AlarmSystem\obj\Debug\AlarmSystem.pdb
+D:\贵州劳科院项目\预警模块设计\AlarmSystem20170327new\AlarmSystem\bin\Debug\AlarmSystem.exe.config
+D:\贵州劳科院项目\预警模块设计\AlarmSystem20170327new\AlarmSystem\obj\Debug\AlarmSystem.exe
+D:\贵州劳科院项目\预警模块设计\AlarmSystem20170327new\AlarmSystem\obj\Debug\AlarmSystem.pdb
+D:\贵州劳科院项目\预警模块设计\AlarmSystem20170327new\AlarmSystem\bin\Debug\AlarmSystem.exe
+D:\贵州劳科院项目\预警模块设计\AlarmSystem20170327new\AlarmSystem\bin\Debug\AlarmSystem.pdb
+D:\贵州劳科院项目\预警模块设计\AlarmSystem20170327new\AlarmSystem\obj\Debug\AlarmSystem.csprojResolveAssemblyReference.cache
+D:\贵州劳科院项目\预警模块设计\AlarmSystem20170327new\AlarmSystem\obj\Debug\AlarmSystem.Form1.resources
+D:\贵州劳科院项目\预警模块设计\AlarmSystem20170327new\AlarmSystem\obj\Debug\AlarmSystem.Properties.Resources.resources
+D:\贵州劳科院项目\预警模块设计\AlarmSystem20170327new\AlarmSystem\obj\Debug\AlarmSystem.csproj.GenerateResource.Cache
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170328\AlarmSystem\bin\Debug\AlarmSystem.exe.config
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170328\AlarmSystem\obj\Debug\AlarmSystem.exe
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170328\AlarmSystem\obj\Debug\AlarmSystem.pdb
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170328\AlarmSystem\bin\Debug\AlarmSystem.exe
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170328\AlarmSystem\bin\Debug\AlarmSystem.pdb
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170328\AlarmSystem\obj\Debug\AlarmSystem.csprojResolveAssemblyReference.cache
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170328\AlarmSystem\obj\Debug\AlarmSystem.Form1.resources
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170328\AlarmSystem\obj\Debug\AlarmSystem.Properties.Resources.resources
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170328\AlarmSystem\obj\Debug\AlarmSystem.csproj.GenerateResource.Cache
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170329\AlarmSystem\obj\Debug\AlarmSystem.exe
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170329\AlarmSystem\obj\Debug\AlarmSystem.pdb
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170329\AlarmSystem\obj\Debug\AlarmSystem.csprojResolveAssemblyReference.cache
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170329\AlarmSystem\obj\Debug\AlarmSystem.Form1.resources
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170329\AlarmSystem\obj\Debug\AlarmSystem.Properties.Resources.resources
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170329\AlarmSystem\obj\Debug\AlarmSystem.csproj.GenerateResource.Cache
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170329\AlarmSystem\AlarmSystem.exe.config
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170329\AlarmSystem\AlarmSystem.exe
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170329\AlarmSystem\AlarmSystem.pdb
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170514\AlarmSystem\AlarmSystem.exe.config
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170514\AlarmSystem\obj\Debug\AlarmSystem.exe
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170514\AlarmSystem\obj\Debug\AlarmSystem.pdb
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170514\AlarmSystem\obj\Debug\AlarmSystem.csprojResolveAssemblyReference.cache
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170514\AlarmSystem\obj\Debug\AlarmSystem.Form1.resources
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170514\AlarmSystem\obj\Debug\AlarmSystem.Properties.Resources.resources
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170514\AlarmSystem\obj\Debug\AlarmSystem.csproj.GenerateResource.Cache
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170514\AlarmSystem\AlarmSystem.exe
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170514\AlarmSystem\AlarmSystem.pdb
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170515-ok单一企业发布\AlarmSystem\AlarmSystem.exe.config
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170515-ok单一企业发布\AlarmSystem\obj\Debug\AlarmSystem.exe
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170515-ok单一企业发布\AlarmSystem\obj\Debug\AlarmSystem.pdb
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170528\AlarmSystem\AlarmSystem.exe.config
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170528\AlarmSystem\obj\Debug\AlarmSystem.exe
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170528\AlarmSystem\obj\Debug\AlarmSystem.pdb
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170530\AlarmSystem\AlarmSystem.exe.config
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170530\AlarmSystem\obj\Debug\AlarmSystem.exe
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170530\AlarmSystem\obj\Debug\AlarmSystem.pdb
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170530\AlarmSystem\obj\Debug\AlarmSystem.csprojResolveAssemblyReference.cache
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170530\AlarmSystem\obj\Debug\AlarmSystem.Form1.resources
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170530\AlarmSystem\obj\Debug\AlarmSystem.Properties.Resources.resources
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170530\AlarmSystem\obj\Debug\AlarmSystem.csproj.GenerateResource.Cache
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170530\AlarmSystem\AlarmSystem.exe
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170530\AlarmSystem\AlarmSystem.pdb
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170609\AlarmSystem\AlarmSystem.exe.config
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170609\AlarmSystem\obj\Debug\AlarmSystem.exe
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170609\AlarmSystem\obj\Debug\AlarmSystem.pdb
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170609\AlarmSystem\obj\Debug\AlarmSystem.csprojResolveAssemblyReference.cache
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170609\AlarmSystem\obj\Debug\AlarmSystem.Form1.resources
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170609\AlarmSystem\obj\Debug\AlarmSystem.Properties.Resources.resources
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170609\AlarmSystem\obj\Debug\AlarmSystem.csproj.GenerateResource.Cache
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170609\AlarmSystem\AlarmSystem.exe
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170609\AlarmSystem\AlarmSystem.pdb
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170712测试修改版\AlarmSystem\AlarmSystem.exe.config
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170712测试修改版\AlarmSystem\obj\Debug\AlarmSystem.exe
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170712测试修改版\AlarmSystem\obj\Debug\AlarmSystem.pdb
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170715测试修改版\AlarmSystem\AlarmSystem.exe.config
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170715测试修改版\AlarmSystem\obj\Debug\AlarmSystem.exe
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170715测试修改版\AlarmSystem\obj\Debug\AlarmSystem.pdb
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170715测试修改版\AlarmSystem\obj\Debug\AlarmSystem.csprojResolveAssemblyReference.cache
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170715测试修改版\AlarmSystem\obj\Debug\AlarmSystem.Form1.resources
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170715测试修改版\AlarmSystem\obj\Debug\AlarmSystem.Properties.Resources.resources
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170715测试修改版\AlarmSystem\obj\Debug\AlarmSystem.csproj.GenerateResource.Cache
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170715测试修改版\AlarmSystem\AlarmSystem.exe
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170715测试修改版\AlarmSystem\AlarmSystem.pdb
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170729无警不保存\AlarmSystem\AlarmSystem.exe.config
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170729无警不保存\AlarmSystem\obj\Debug\AlarmSystem.exe
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170729无警不保存\AlarmSystem\obj\Debug\AlarmSystem.pdb
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170729无警不保存\AlarmSystem\obj\Debug\AlarmSystem.csprojResolveAssemblyReference.cache
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170729无警不保存\AlarmSystem\obj\Debug\AlarmSystem.Form1.resources
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170729无警不保存\AlarmSystem\obj\Debug\AlarmSystem.Properties.Resources.resources
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170729无警不保存\AlarmSystem\obj\Debug\AlarmSystem.csproj.GenerateResource.Cache
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170729无警不保存\AlarmSystem\AlarmSystem.exe
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20170729无警不保存\AlarmSystem\AlarmSystem.pdb
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20171004增加短信通知功能\AlarmSystem\AlarmSystem.exe.config
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20171004增加短信通知功能\AlarmSystem\obj\Debug\AlarmSystem.exe
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20171004增加短信通知功能\AlarmSystem\obj\Debug\AlarmSystem.pdb
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20171004增加短信通知功能\AlarmSystem\obj\Debug\AlarmSystem.csprojResolveAssemblyReference.cache
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20171004增加短信通知功能\AlarmSystem\obj\Debug\AlarmSystem.Form1.resources
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20171004增加短信通知功能\AlarmSystem\obj\Debug\AlarmSystem.Properties.Resources.resources
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20171004增加短信通知功能\AlarmSystem\obj\Debug\AlarmSystem.csproj.GenerateResource.Cache
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20171004增加短信通知功能\AlarmSystem\AlarmSystem.exe
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20171004增加短信通知功能\AlarmSystem\AlarmSystem.pdb
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20171004增加短信通知功能\AlarmSystem\obj\Debug\AlarmSystem.AboutBox1.resources
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20171004增加短信通知功能\AlarmSystem\GSMMODEM.dll
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20171007增加短信通知功能\AlarmSystem\AlarmSystem.exe.config
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20171007增加短信通知功能\AlarmSystem\obj\Debug\AlarmSystem.exe
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20171007增加短信通知功能\AlarmSystem\obj\Debug\AlarmSystem.pdb
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20171007增加短信通知功能\AlarmSystem\obj\Debug\AlarmSystem.csprojResolveAssemblyReference.cache
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20171007增加短信通知功能\AlarmSystem\obj\Debug\AlarmSystem.AboutBox1.resources
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20171007增加短信通知功能\AlarmSystem\obj\Debug\AlarmSystem.Form1.resources
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20171007增加短信通知功能\AlarmSystem\obj\Debug\AlarmSystem.Properties.Resources.resources
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20171007增加短信通知功能\AlarmSystem\obj\Debug\AlarmSystem.csproj.GenerateResource.Cache
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20171007增加短信通知功能\AlarmSystem\AlarmSystem.exe
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20171007增加短信通知功能\AlarmSystem\AlarmSystem.pdb
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20171007增加短信通知功能\AlarmSystem\GSMMODEM.dll
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20171007增加短信邮件告警功能\AlarmSystem\AlarmSystem.exe.config
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20171007增加短信邮件告警功能\AlarmSystem\obj\Debug\AlarmSystem.exe
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20171007增加短信邮件告警功能\AlarmSystem\obj\Debug\AlarmSystem.pdb
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20171007增加短信邮件告警功能\AlarmSystem\obj\Debug\AlarmSystem.csprojResolveAssemblyReference.cache
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20171007增加短信邮件告警功能\AlarmSystem\obj\Debug\AlarmSystem.AboutBox1.resources
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20171007增加短信邮件告警功能\AlarmSystem\obj\Debug\AlarmSystem.Form1.resources
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20171007增加短信邮件告警功能\AlarmSystem\obj\Debug\AlarmSystem.Properties.Resources.resources
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20171007增加短信邮件告警功能\AlarmSystem\obj\Debug\AlarmSystem.csproj.GenerateResource.Cache
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20171007增加短信邮件告警功能\AlarmSystem\AlarmSystem.exe
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20171007增加短信邮件告警功能\AlarmSystem\AlarmSystem.pdb
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20171007增加短信邮件告警功能\AlarmSystem\GSMMODEM.dll
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20171008更改短信邮件告警功能\AlarmSystem\AlarmSystem.exe.config
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20171008更改短信邮件告警功能\AlarmSystem\obj\Debug\AlarmSystem.exe
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20171008更改短信邮件告警功能\AlarmSystem\obj\Debug\AlarmSystem.pdb
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20171008更改短信邮件告警功能\AlarmSystem\obj\Debug\AlarmSystem.csprojResolveAssemblyReference.cache
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20171008更改短信邮件告警功能\AlarmSystem\obj\Debug\AlarmSystem.AboutBox1.resources
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20171008更改短信邮件告警功能\AlarmSystem\obj\Debug\AlarmSystem.Form1.resources
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20171008更改短信邮件告警功能\AlarmSystem\obj\Debug\AlarmSystem.Properties.Resources.resources
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20171008更改短信邮件告警功能\AlarmSystem\obj\Debug\AlarmSystem.csproj.GenerateResource.Cache
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20171008更改短信邮件告警功能\AlarmSystem\AlarmSystem.exe
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20171008更改短信邮件告警功能\AlarmSystem\AlarmSystem.pdb
+D:\贵州劳科院项目\3 实时预警软件开发\AlarmSystem20171008更改短信邮件告警功能\AlarmSystem\GSMMODEM.dll
+D:\任务资料\贵州项目\AlarmSystem20171008更改短信邮件告警功能\AlarmSystem\AlarmSystem.exe.config
+D:\任务资料\贵州项目\AlarmSystem20171008更改短信邮件告警功能\AlarmSystem\obj\Debug\AlarmSystem.exe
+D:\任务资料\贵州项目\AlarmSystem20171008更改短信邮件告警功能\AlarmSystem\obj\Debug\AlarmSystem.pdb
+D:\任务资料\贵州项目\AlarmSystem20171008更改短信邮件告警功能\AlarmSystem\obj\Debug\AlarmSystem.csprojResolveAssemblyReference.cache
+D:\任务资料\贵州项目\AlarmSystem20171008更改短信邮件告警功能\AlarmSystem\obj\Debug\AlarmSystem.AboutBox1.resources
+D:\任务资料\贵州项目\AlarmSystem20171008更改短信邮件告警功能\AlarmSystem\obj\Debug\AlarmSystem.Form1.resources
+D:\任务资料\贵州项目\AlarmSystem20171008更改短信邮件告警功能\AlarmSystem\obj\Debug\AlarmSystem.Properties.Resources.resources
+D:\任务资料\贵州项目\AlarmSystem20171008更改短信邮件告警功能\AlarmSystem\obj\Debug\AlarmSystem.csproj.GenerateResource.Cache
+D:\任务资料\贵州项目\AlarmSystem20171008更改短信邮件告警功能\AlarmSystem\AlarmSystem.exe
+D:\任务资料\贵州项目\AlarmSystem20171008更改短信邮件告警功能\AlarmSystem\AlarmSystem.pdb
+D:\任务资料\贵州项目\AlarmSystem20171008更改短信邮件告警功能 - 副本\AlarmSystem\AlarmSystem.exe.config
+D:\任务资料\贵州项目\AlarmSystem20171008更改短信邮件告警功能 - 副本\AlarmSystem\obj\Debug\AlarmSystem.exe
+D:\任务资料\贵州项目\AlarmSystem20171008更改短信邮件告警功能 - 副本\AlarmSystem\obj\Debug\AlarmSystem.pdb
+D:\任务资料\贵州项目\AlarmSystem20171008更改短信邮件告警功能 - 副本\AlarmSystem\obj\Debug\AlarmSystem.csprojResolveAssemblyReference.cache
+D:\任务资料\贵州项目\AlarmSystem20171008更改短信邮件告警功能 - 副本\AlarmSystem\obj\Debug\AlarmSystem.AboutBox1.resources
+D:\任务资料\贵州项目\AlarmSystem20171008更改短信邮件告警功能 - 副本\AlarmSystem\obj\Debug\AlarmSystem.Form1.resources
+D:\任务资料\贵州项目\AlarmSystem20171008更改短信邮件告警功能 - 副本\AlarmSystem\obj\Debug\AlarmSystem.Properties.Resources.resources
+D:\任务资料\贵州项目\AlarmSystem20171008更改短信邮件告警功能 - 副本\AlarmSystem\obj\Debug\AlarmSystem.csproj.GenerateResource.Cache
+D:\任务资料\贵州项目\AlarmSystem20171008更改短信邮件告警功能 - 副本\AlarmSystem\AlarmSystem.exe
+D:\任务资料\贵州项目\AlarmSystem20171008更改短信邮件告警功能 - 副本\AlarmSystem\AlarmSystem.pdb
+D:\任务资料\贵州项目\AlarmSystem20171008更改短信邮件告警功能 - 副本 - 副本\AlarmSystem\AlarmSystem.exe.config
+D:\任务资料\贵州项目\AlarmSystem20171008更改短信邮件告警功能 - 副本 - 副本\AlarmSystem\obj\Debug\AlarmSystem.exe
+D:\任务资料\贵州项目\AlarmSystem20171008更改短信邮件告警功能 - 副本 - 副本\AlarmSystem\obj\Debug\AlarmSystem.pdb
+D:\任务资料\贵州项目\AlarmSystem20171008更改短信邮件告警功能 - 副本 - 副本\AlarmSystem\obj\Debug\AlarmSystem.csprojResolveAssemblyReference.cache
+D:\任务资料\贵州项目\AlarmSystem20171008更改短信邮件告警功能 - 副本 - 副本\AlarmSystem\obj\Debug\AlarmSystem.AboutBox1.resources
+D:\任务资料\贵州项目\AlarmSystem20171008更改短信邮件告警功能 - 副本 - 副本\AlarmSystem\obj\Debug\AlarmSystem.Form1.resources
+D:\任务资料\贵州项目\AlarmSystem20171008更改短信邮件告警功能 - 副本 - 副本\AlarmSystem\obj\Debug\AlarmSystem.Properties.Resources.resources
+D:\任务资料\贵州项目\AlarmSystem20171008更改短信邮件告警功能 - 副本 - 副本\AlarmSystem\obj\Debug\AlarmSystem.csproj.GenerateResource.Cache
+D:\任务资料\贵州项目\AlarmSystem20171008更改短信邮件告警功能 - 副本 - 副本\AlarmSystem\AlarmSystem.exe
+D:\任务资料\贵州项目\AlarmSystem20171008更改短信邮件告警功能 - 副本 - 副本\AlarmSystem\AlarmSystem.pdb
+G:\AlarmSystem20171008更改短信邮件告警功能\AlarmSystem\AlarmSystem.exe.config
+G:\AlarmSystem20171008更改短信邮件告警功能\AlarmSystem\obj\Debug\AlarmSystem.exe
+G:\AlarmSystem20171008更改短信邮件告警功能\AlarmSystem\obj\Debug\AlarmSystem.pdb
+G:\AlarmSystem20171008更改短信邮件告警功能\AlarmSystem\obj\Debug\AlarmSystem.csprojResolveAssemblyReference.cache
+G:\AlarmSystem20171008更改短信邮件告警功能\AlarmSystem\obj\Debug\AlarmSystem.AboutBox1.resources
+G:\AlarmSystem20171008更改短信邮件告警功能\AlarmSystem\obj\Debug\AlarmSystem.Form1.resources
+G:\AlarmSystem20171008更改短信邮件告警功能\AlarmSystem\obj\Debug\AlarmSystem.Properties.Resources.resources
+G:\AlarmSystem20171008更改短信邮件告警功能\AlarmSystem\obj\Debug\AlarmSystem.csproj.GenerateResource.Cache
+G:\AlarmSystem20171008更改短信邮件告警功能\AlarmSystem\AlarmSystem.exe
+G:\AlarmSystem20171008更改短信邮件告警功能\AlarmSystem\AlarmSystem.pdb
+D:\AlarmSystem20171008更改短信邮件告警功能\AlarmSystem\AlarmSystem.exe.config
+D:\AlarmSystem20171008更改短信邮件告警功能\AlarmSystem\obj\Debug\AlarmSystem.exe
+D:\AlarmSystem20171008更改短信邮件告警功能\AlarmSystem\obj\Debug\AlarmSystem.pdb
+D:\AlarmSystem20171008更改短信邮件告警功能\AlarmSystem\obj\Debug\AlarmSystem.csprojResolveAssemblyReference.cache
+D:\AlarmSystem20171008更改短信邮件告警功能\AlarmSystem\obj\Debug\AlarmSystem.AboutBox1.resources
+D:\AlarmSystem20171008更改短信邮件告警功能\AlarmSystem\obj\Debug\AlarmSystem.Form1.resources
+D:\AlarmSystem20171008更改短信邮件告警功能\AlarmSystem\obj\Debug\AlarmSystem.Properties.Resources.resources
+D:\AlarmSystem20171008更改短信邮件告警功能\AlarmSystem\obj\Debug\AlarmSystem.csproj.GenerateResource.Cache
+D:\AlarmSystem20171008更改短信邮件告警功能\AlarmSystem\AlarmSystem.exe
+D:\AlarmSystem20171008更改短信邮件告警功能\AlarmSystem\AlarmSystem.pdb

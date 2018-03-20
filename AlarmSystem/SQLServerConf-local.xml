@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="gb2312"?>
+<Configure>
+  <DBLink>
+    <Server>127.0.0.1</Server>
+    <dataDS>SHSPTC</dataDS>
+    <dbName>SHS</dbName>
+    <User>sa</User>
+    <Passwd>admin</Passwd>
+  </DBLink>
+</Configure>
