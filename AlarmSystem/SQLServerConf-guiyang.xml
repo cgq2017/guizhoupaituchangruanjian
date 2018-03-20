@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="gb2312"?>
 <Configure>
   <DBLink>
-    <Server>117.187.61.186</Server>
+    <Server>ip地址</Server>
     <dataDS>PTC</dataDS>
     <dbName>JF</dbName>
-    <User>GZptc2017</User>
-    <Passwd>GZ2017ptc0820</Passwd>
+    <User>sa</User>
+    <Passwd>密码</Passwd>
   </DBLink>
 </Configure>
